@@ -1,4 +1,4 @@
-# P7SSD : PIC-driven 7-Segment Scrolling Display
+# 📟 P7SSD : PIC-driven 7-Segment Scrolling Display
 
 A PIC16F72 microcontroller-based text scroller using dual 4-digit 7-segment displays. The system continuously scrolls custom inputed text across the display using a minimal interface and simple embedded logic.
 
